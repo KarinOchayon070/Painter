@@ -1,0 +1,396 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MFCproject.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MFCprojectDlg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="framework.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Shape.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RectangleC.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="EllipseC.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TriangleC.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="command.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AddShape.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LineC.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TrapezeC.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="HexagonalC.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PentagonC.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="OpenningScreen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="MFCproject.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MFCprojectDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Shape.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RectangleC.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EllipseC.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TriangleC.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="command.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AddShape.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LineC.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TrapezeC.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="HexagonalC.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PentagonC.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="OpenningScreen.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="MFCproject.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\MFCproject.rc2">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\MFCproject.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\bitmap1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\bitmap2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\IDB_BITMAP8.JPG">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\start.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\openScreen.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\bitmap4.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\finalll.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\bitmap6.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\bitmap7.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\finalalemet.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\bitmap9.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\bitmap10.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\butt.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\bitmap12.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\bitmap13.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\butReal.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\bitmap15.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\dayyyyyyyyyyyy.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\bitmap17.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\But.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\bitmap19.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\bitmap20.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\thick.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\bitmap22.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\chooseColor.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\bitmap24.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\bitmap25.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\bitmap26.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\bitmap27.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\undo.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\bitmap29.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\undo2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\bitmap31.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\bitmap32.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\redo2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\new.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\bitmap35.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\load.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\bitmap37.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\loadB.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\bitmap39.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\saveB.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\bitmap41.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\newwwwwwwwwwwwwww.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\bitmap1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\thicknessssss.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\bitmap3.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\shapessssss.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\bitmap6.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\bitmap7.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\pickme.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\כותרותשייפס.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\bitmap9.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\brush1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\bitmap12.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\brush2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\bitmap15.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\brush3.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\bitmap19.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\brush4.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\bitmap22.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\brush5.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\download.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\bitmap25.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\bitmap26.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\exit.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\finalll.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\finalalemet.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\butt.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\butReal.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\dayyyyyyyyyyyy.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\But.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\undo2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\redo2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\new.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\loadB.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\saveB.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\newwwwwwwwwwwwwww.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\thicknessssss.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\shapessssss.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\pickme.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\כותרותשייפס.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\brush1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\brush2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\brush3.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\brush4.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\brush5.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\download.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\exit.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
